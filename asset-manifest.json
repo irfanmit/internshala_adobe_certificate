@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/internshala_adobe_certificate/static/css/main.97b14377.css",
+    "main.js": "/internshala_adobe_certificate/static/js/main.be1f08c6.js",
+    "static/js/787.bc7d429a.chunk.js": "/internshala_adobe_certificate/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/internshala_adobe_certificate/index.html",
+    "main.97b14377.css.map": "/internshala_adobe_certificate/static/css/main.97b14377.css.map",
+    "main.be1f08c6.js.map": "/internshala_adobe_certificate/static/js/main.be1f08c6.js.map",
+    "787.bc7d429a.chunk.js.map": "/internshala_adobe_certificate/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b14377.css",
+    "static/js/main.be1f08c6.js"
+  ]
+}
