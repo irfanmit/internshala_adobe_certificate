@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Certificate/>
     </div>
-  );
+  )
 }
 
 export default App;
